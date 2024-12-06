@@ -1,16 +1,11 @@
-# proyectodam
+# Natural Eats
 
-A new Flutter project.
+Natural Eats es una aplicación móvil diseñada para descubrir y compartir recetas veganas y vegetarianas. La app permite a los usuarios ingresar, guardar y explorar recetas saludables, fomentando una alimentación consciente y respetuosa con el medio ambiente.
 
-## Getting Started
+Este proyecto ha sido desarrollado por Sebastián Álamos y Vicente Jeldes como parte de un proyecto académico en la USM, Viña del Mar.
 
-This project is a starting point for a Flutter application.
+## Características principales
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Explorar una base de datos de recetas veganas y vegetarianas.
+Agregar y gestionar tus propias recetas.
+Interfaz intuitiva y amigable.
